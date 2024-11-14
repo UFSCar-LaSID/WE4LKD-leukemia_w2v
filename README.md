@@ -5,13 +5,11 @@
 </div>
 <br>
 
-## Who are we?
-
-WE4LKD is a brazilian research group consisting of undergraduate, master's, doctoral, and postdoctoral students with a strong focus on Artificial Intelligence (AI) and Natural Language Processing (NLP). Our primary objective is to study, analyze, explore, and propose effective real-world NLP applications. Through the use of word embeddings, we aim to uncover hidden knowledge and patterns in textual data to extract valuable insights and improve various applications in different fields.
-
 <div align="center">
   <br>
-  <h2>Accelerating Discoveries in Medicine using Distributed Vector Representations of Words</h2>
+  <a href="https://doi.org/10.1016/j.eswa.2024.123566" target="_blank">
+    <h2>Accelerating Discoveries in Medicine using Distributed Vector Representations of Words</h2>
+  </a>
   <strong>Berto, Matheus V. V.; De Freitas, Breno L.; Scarton, Carolina E.; Neto, João A. M.; Almeida, Tiago A.</strong><br>
 </div>
 
@@ -39,6 +37,7 @@ Finally, our models were able to identify and suggest testing of some of the cur
   - [Streamlit web app](#streamlit-web-app)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+- [Citation](#citation)
 - [References](#references)
 
 ## Contributing
@@ -136,6 +135,21 @@ Please do not exitate to contact us by any of the links below.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
+## Citation
+```
+@article{BERTO2024123566,
+  title = {Accelerating discoveries in medicine using distributed vector representations of words},
+  journal = {Expert Systems with Applications},
+  volume = {250},
+  pages = {123566},
+  year = {2024},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2024.123566},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417424004317},
+  author = {Matheus V.V. Berto and Breno L. Freitas and Carolina Scarton and João A. Machado-Neto and Tiago A. Almeida},
+}
+```
 
 ## References
 
